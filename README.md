@@ -1,3 +1,3 @@
 # Metal Anvil Falling
 
-Open the index.html file to see the greatest creation of humanity.
+Just a simple animation of an anvil falling with a funny sound
